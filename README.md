@@ -1,0 +1,2 @@
+# LocalStorages
+Local Storages Data
